@@ -5,3 +5,5 @@ The ipynb files are too big and cannot be uploaded here. The link to Google driv
 [Book Recommendation App Demo](https://clipchamp.com/watch/9gKmng3Q23W)
 
 Note that the API key and password to the database is attached in the system to enable extraction.
+
+Scraped data formed the bulk of the information (66,000+ data). Around 1000 datapoints were obtained from the Amazon API due to Amazon API limitation and were discarded subsequently. The API trial can be accessed from https://github.com/kirubhaharini/CZ4125-Data-Products-App.
